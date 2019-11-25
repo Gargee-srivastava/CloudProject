@@ -57,6 +57,6 @@ Login page hosted on Amazon S3 bucket
 ![2days](https://user-images.githubusercontent.com/39323310/69564638-611f9100-0fd9-11ea-9737-3b0d88a39e22.png)
 
 ![14days](https://user-images.githubusercontent.com/39323310/69564678-71d00700-0fd9-11ea-9d93-2c338d76d23f.png)
-![schedtask](https://user-images.githubusercontent.com/39323310/69564702-7f858c80-0fd9-11ea-98dd-d1c4d34294d3.png)
 
 
+![DepSky-Architecture-8](https://user-images.githubusercontent.com/39323310/69565924-ed32b800-0fdb-11ea-95f2-60f68e5a5fe7.png)
